@@ -19,7 +19,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 #### 🖥️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img  src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 #### ⚛️ Libraries & Frameworks
@@ -39,7 +39,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👀 Profile Views
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=codesaifali&color=blue" />
 </p>
 
@@ -47,9 +47,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### ✨ Quote
 
-<p align="center">
-  <b>Almost Everything is Possible 💡</b><br>
-  It's just a matter of ⌚ Time • 💰 Resources • ✨ Quality
+<p>
+  <b>Almost Everything is Possible 💡 It's just a matter of ⌚ Time • 💰 Resources • ✨ Quality </b>
 </p>
 
 ---
